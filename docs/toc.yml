@@ -2,3 +2,5 @@
   href: introduction.md
 - name: Getting Started
   href: getting-started.md
+- name: GitHub Actions Workflow Explained
+  href: github-actions-workflow-explained.md
